@@ -1,0 +1,11 @@
+product_name  quantity_sold  order_date
+Product A        10          2023-07-15
+Product B         5          2023-07-20
+Product A         8          2023-07-22
+Product C        15          2023-07-25
+Product B         7         2023-07-26
+Product C        12         2023-07-28
+Product A         6         2023-07-29
+Product B         3         2023-07-30
+Product C         9         2023-07-31
+Product D        20         2023-08-01
